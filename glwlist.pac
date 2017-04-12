@@ -22,6 +22,7 @@ var rules = [
             "*omnigroup.com*",
             "*redis.io*",
             "*pan.baidu.com*",
+            "*xunlei*",
             "*baidu*",
             "*lua.org*",
             "*lua-users.org*",
