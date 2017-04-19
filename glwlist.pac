@@ -21,6 +21,7 @@ var rules = [
             "*reddit.com*",
             "*omnigroup.com*",
             "*redis.io*",
+            "*ed2k*",
             "*pan.baidu.com*",
             "*baidupcs.com*",
             "*pcs.baidu.com*",
