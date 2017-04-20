@@ -25,6 +25,7 @@ var rules = [
             "*pan.baidu.com*",
             "*baidupcs.com*",
             "*pcs.baidu.com*",
+            "*stat.download.xunlei.com*",
             "*xunlei*",
             "*lua.org*",
             "*lua-users.org*",
